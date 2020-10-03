@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://jeromelbs.netlify.app/" #do not forget the slash at the end
+baseURL = "https://jeromelbs.netlify.app/" #do not forget the slash at the end, it also has to be an https
 languageCode = "en-us"
 title = "Jerome"
 theme = "forty"
